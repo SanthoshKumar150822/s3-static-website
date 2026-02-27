@@ -2,8 +2,8 @@
 
 This Terraform configuration creates an AWS S3 bucket configured for static website hosting with security best practices.
 
-🌐Social
-🔗 LinkedIn: https://www.linkedin.com/posts/santhosh-kumar-150822-p_aws-s3-terraform-activity-7429230601028759552-79Sz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWyFDYBnCZKFxMl5Pe8nzrizxV8Sb5aUO8
+🌐Social<br>
+🔗 LinkedIn: https://www.linkedin.com/posts/santhosh-kumar-150822-p_aws-s3-terraform-activity-7429230601028759552-79Sz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWyFDYBnCZKFxMl5Pe8nzrizxV8Sb5aUO8<br>
 ▶️ Youtube: https://youtu.be/nnlI8F2IHkM?si=ibmy50hAh29RUb5w
 
 ## Features
